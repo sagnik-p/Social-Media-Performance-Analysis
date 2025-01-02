@@ -1,0 +1,11 @@
+post_id,day_of_posting,date_of_posting,time_of_posting,post_type,likes,comments,shares,repost,gender,hashtags
+0000000000000001,Monday,2024-12-31,10:30:00,carousel,120,25,12,6,M,#Tech,#AI
+0000000000000002,Tuesday,2024-12-30,14:15:00,reels,250,55,30,15,F,#ML,#Data,#AI
+0000000000000003,Wednesday,2024-12-29,12:00:00,static-images,60,15,8,3,M,
+0000000000000004,Thursday,2024-12-28,09:00:00,video-carousel,180,40,20,10,F,#Fitness,#Health
+0000000000000005,Friday,2024-12-27,11:45:00,mixed-carousel,140,30,16,8,M,#Tech,#AI
+0000000000000006,Saturday,2024-12-26,16:00:00,carousel,100,20,10,5,F,#Fashion
+0000000000000007,Sunday,2024-12-25,13:30:00,reels,270,60,35,18,M,#Food,#Travel
+0000000000000008,Monday,2024-12-24,08:00:00,static-images,55,12,6,2,F,
+0000000000000009,Tuesday,2024-12-23,14:00:00,video-carousel,210,45,22,12,M,#Music
+0000000000000010,Wednesday,2024-12-22,10:00:00,mixed-carousel,130,28,14,7,F,#Nature

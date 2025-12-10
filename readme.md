@@ -1,6 +1,4 @@
 # Social Media Performance Analysis
-
-## (The Level Supermind Hackathon 2025 Assignment)
 This repository contains a Jupyter Notebook that analyzes social media performance data. The goal of this project is to extract meaningful insights and trends from the dataset, helping to understand key patterns and improve social media strategies.
 
 ## Installation

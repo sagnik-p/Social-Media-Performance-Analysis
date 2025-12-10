@@ -1,4 +1,5 @@
 # Social Media Performance Analysis
+
 This repository contains a Jupyter Notebook that analyzes social media performance data. The goal of this project is to extract meaningful insights and trends from the dataset, helping to understand key patterns and improve social media strategies.
 
 ## Installation
@@ -53,3 +54,4 @@ To run the notebook locally, follow these steps:
 - numpy
 
 Refer to `requirements.txt` for the complete list of dependencies.
+Thank you
